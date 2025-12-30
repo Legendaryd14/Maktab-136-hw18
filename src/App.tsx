@@ -5,9 +5,5 @@ import LandingPage from "./pages/LandingPage";
 // import { Cart } from "./components/cards/cards";
 
 export function App() {
-  return (
-    <>
-      <LandingPage />;
-    </>
-  );
+  return <>{/* <LandingPage /> */}</>;
 }
